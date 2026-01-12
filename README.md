@@ -15,6 +15,18 @@
 
 <br>
 
+**👩🏻‍💻나(DaeyeongPark)의 역할:**
+    
+    [Design / FrontEnd / Manage]
+    
+       -전체 웹 디자인
+
+       -디자인에 대한 프론트 개발
+
+       -프로젝트 관리 및 운용, 유지보수
+
+<br>
+
 **👩🏻‍💻나(LimYeri)의 역할:**
     
     [Backend / DB / Server]
